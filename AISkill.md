@@ -2,6 +2,7 @@
 
 ### Introduction
 AI Skills in Microsoft Fabric enable users to create conversational Q&A systems using generative AI. This feature allows users to interact with their data in a more intuitive and efficient manner, facilitating data-driven decision-making across organizations.
+Read more about AI SKils at https://learn.microsoft.com/en-us/fabric/data-science/concept-ai-skill
 
 ### Prerequisites
 To create and configure an AI Skill in Microsoft Fabric, ensure the following prerequisites are met:
